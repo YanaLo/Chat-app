@@ -1,0 +1,47 @@
+.header{
+	
+	list-style-type:none; 
+	padding:0;
+
+}
+body {
+	font-family: 'Hanalei Fill', cursive;
+}
+.headerlist {
+	display: inline-block;
+}
+.headerlist,a {
+	color:red;
+	text-decoration:none;
+	background-color: pink;
+	border: green 2px;
+	text-align: center;
+	padding: 10px 25px 10px 25px ;
+	margin: 15px 25px 15px 25px;
+	
+}
+.headerlist,a:hover{
+	color: black;
+
+}
+.main{
+	margin-top: 25px;
+	background-color: green;
+	height: 400px;
+
+}
+.userList{
+	background-color: yellow;
+	height:100%;
+	width: 30%;
+	display: inline-block;
+	list-style-type: none;
+
+
+}
+.messageBoard {
+	background-color: blue;
+	width: 10%;
+	height:100%;
+
+}
