@@ -30,6 +30,10 @@ body {
 	height: 400px;
 
 }
+
+.centeredText {
+	text-align: center;
+}
 .userList{
 	background-color: yellow;
 	height:100%;
@@ -44,4 +48,21 @@ body {
 	width: 10%;
 	height:100%;
 
+}
+.pinkbackground {
+	background-color: pink;
+}
+.redbackground {
+	background-color: red;
+}
+.rowUsers{
+	height: 400px;
+	padding: 25px 40px 25px 40px;
+	margin: 60px 40px 60px 40px ;
+	
+}
+.border{
+	border: 10px blue;
+	border-radius: 25px;
+	border-color:green;
 }
